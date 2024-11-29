@@ -1,4 +1,4 @@
-print ("Sinh vien:Nguen xuan vu MSV:235752021610011")
+print ("Sinh vien:Nguyen Van Tung MSV:235752021610118")
 
 import math 
 pos = [0,0]
