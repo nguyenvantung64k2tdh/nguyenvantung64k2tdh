@@ -1,4 +1,4 @@
-print ("Sinh vien:Nguyen xuan vu  MSV:235752021610011")
+print ("Sinh vien:Nguyen Van Tung MSV:235752021610118")
 """Chương trình tạo một máy tính đơn giản có thể cộng, trừ, nhân và 
 chia bằng các hàm""" 
 # Hàm này thêm hai số
