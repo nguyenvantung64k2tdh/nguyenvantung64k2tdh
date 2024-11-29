@@ -1,0 +1,5 @@
+print ("sinh vien:Nguyen Van Tung MSV:235752021610118")
+ds = input("Nhập chuỗi: ").split()
+Phần_tử_mới = input("Nhập phần tử mới thêm vào danh sách: ")
+ds.append(Phần_tử_mới)
+print("Danh sách sau khi thêm phần tử:", ds)
