@@ -1,4 +1,4 @@
-print ("Sinh vien:Nguyen xuan vu MSV:235752021610011")
+print ("Sinh vien:Nguyen Van Tung MSV:235752021610118")
 import math
 def benefit(t, n, k):
     """
