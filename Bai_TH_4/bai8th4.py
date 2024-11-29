@@ -1,4 +1,4 @@
-print ("sinh vien:Nguyen xuan vu MSV:235752021610011")
+print ("Sinh vien:Nguyen Van Tung MSV:235752021610118")
 Dãy = input("Nhập dãy các từ: ")
 các_từ = Dãy.split()
 max_length = max(len(từ) for từ in các_từ)
