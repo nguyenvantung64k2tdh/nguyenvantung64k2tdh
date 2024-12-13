@@ -8,7 +8,7 @@ colours = ['Red', 'Blue', 'Green', 'Pink', 'Black',
            'Yellow', 'Orange', 'White', 'Purple', 'Brown']
 score = 0
 
-# the game time left, initially 30 seconds.
+# the game time left, initially 120 seconds.
 timeleft = 120
 
 # function that will start the game.
